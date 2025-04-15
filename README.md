@@ -125,6 +125,39 @@ This project demonstrates how to implement standard output (printf) functionalit
   <br><em>Installation Process: Final mounted device in real-world application</em>
 </p>
 
+### Additional Devices
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://github.com/afayzullaev/afayzullaev/blob/main/assets/device6.jpg" alt="Device 6" width="400"/>
+    <br><em>Device: STM32-based temperature and humidity monitoring system</em>
+  </div>
+  
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://github.com/afayzullaev/afayzullaev/blob/main/assets/device7.jpg" alt="Device 7" width="400"/>
+    <br><em>Device: ESP32-based water quality analyzer with multiple sensor inputs</em>
+  </div>
+  
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://github.com/afayzullaev/afayzullaev/blob/main/assets/device8.jpg" alt="Device 8" width="400"/>
+    <br><em>Device: Custom IoT gateway for industrial sensor networks</em>
+  </div>
+</div>
+
+### Installation Processes
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://github.com/afayzullaev/afayzullaev/blob/main/assets/installation1.jpg" alt="Installation 1" width="400"/>
+    <br><em>Installation Process: Deploying a water monitoring system at a treatment facility</em>
+  </div>
+  
+  <div style="text-align: center; margin: 10px;">
+    <img src="https://github.com/afayzullaev/afayzullaev/blob/main/assets/installation2.jpg" alt="Installation 2" width="400"/>
+    <br><em>Installation Process: Setting up a gas detection system in an industrial environment</em>
+  </div>
+</div>
+
 My embedded systems development approach includes:
 - Custom PCB design optimized for specific use cases
 - Component selection for reliability and power efficiency
