@@ -41,7 +41,12 @@ ESP32-based water monitoring system with RS485 radar sensors, cellular connectiv
 
 <p align="center">
   <img src="https://github.com/afayzullaev/smartwater_radar/blob/main/main/pcb_.png" alt="SmartWater Radar 3D PCB Design" width="400"/>
+  <br><em>Device: 3D PCB design of the SmartWater Radar system</em>
+</p>
+
+<p align="center">
   <img src="https://github.com/afayzullaev/smartwater_radar/blob/main/main/pcb.jpg" alt="SmartWater Radar PCB Layout" width="400"/>
+  <br><em>Device: PCB layout showing component placement and routing</em>
 </p>
 
 The SmartWater Radar system features custom-designed PCB with precisely placed components for optimal performance. The PCB integrates an ESP32 microcontroller, A7670 modem for cellular connectivity, RS485 transceiver circuit, and various sensor interfaces.
@@ -54,14 +59,25 @@ Advanced gas detection and alert system built on ESP32 for monitoring hazardous 
 
 <p align="center">
   <img src="https://github.com/afayzullaev/gas-security-system/blob/main/main/pcb_easyeda.png" alt="Gas Security System PCB Design in EasyEDA" width="400"/>
-  <img src="https://github.com/afayzullaev/gas-security-system/blob/main/main/Installation.jpg" alt="Gas Security System Installation" width="400"/>
-</p>
-<p align="center">
-  <img src="https://github.com/afayzullaev/gas-security-system/blob/main/main/pcb_front.jpg" alt="Gas Security System PCB Front View" width="400"/>
-  <img src="https://github.com/afayzullaev/gas-security-system/blob/main/main/pcb_back.jpg" alt="Gas Security System PCB Back View" width="400"/>
+  <br><em>Device: PCB design of the Gas Security System created in EasyEDA</em>
 </p>
 
-The Gas Security System features a comprehensively designed PCB with carefully routed traces and component placement for reliable gas detection. The installation image shows the system deployed in a real-world setting, demonstrating its compact form factor and practical application.
+<p align="center">
+  <img src="https://github.com/afayzullaev/gas-security-system/blob/main/main/Installation.jpg" alt="Gas Security System Installation" width="400"/>
+  <br><em>Installation Process: The Gas Security System mounted in its designated location</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/afayzullaev/gas-security-system/blob/main/main/pcb_front.jpg" alt="Gas Security System PCB Front View" width="400"/>
+  <br><em>Device: Front view of the assembled Gas Security System PCB</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/afayzullaev/gas-security-system/blob/main/main/pcb_back.jpg" alt="Gas Security System PCB Back View" width="400"/>
+  <br><em>Device: Back view of the assembled Gas Security System PCB showing soldering quality</em>
+</p>
+
+The Gas Security System features a comprehensively designed PCB with carefully routed traces and component placement for reliable gas detection. The installation image shows the system deployed in a real-world setting, demonstrating its compact form factor and practical application for gas leak monitoring in residential environments.
 
 - **Technologies**: ESP32, GSM Modem, ADC Sensors, Custom PCB Design
 - **Key Features**: Real-time gas detection, SMS notifications, Valve control, Visual and audio alerts
@@ -80,6 +96,7 @@ Chrome extension for instant word translation on websites, featuring inline tran
 
 <p align="center">
   <img src="https://github.com/afayzullaev/yadla-translation-extension/blob/main/src/static/icon.png" alt="Yadla Translation Extension Icon" width="128"/>
+  <br><em>Application Icon: The Yadla Translation Chrome Extension logo</em>
 </p>
 
 The Yadla Translation Extension is a modern Chrome extension built with React and TypeScript. It provides seamless translation functionality directly on web pages, with an elegant popup display above selected words.
@@ -95,6 +112,25 @@ This project demonstrates how to implement standard output (printf) functionalit
 - Custom printf implementation optimized for embedded systems
 - Configurable UART settings for different hardware setups
 - Example usage and integration with STM32 projects
+
+## Hardware Development Showcase
+
+<p align="center">
+  <img src="https://github.com/afayzullaev/gas-security-system/blob/main/main/pcb_easyeda.png" alt="PCB Design Process" width="400"/>
+  <br><em>Device Development: EDA software used for PCB design and routing</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/afayzullaev/gas-security-system/blob/main/main/Installation.jpg" alt="Device Field Installation" width="400"/>
+  <br><em>Installation Process: Final mounted device in real-world application</em>
+</p>
+
+My embedded systems development approach includes:
+- Custom PCB design optimized for specific use cases
+- Component selection for reliability and power efficiency
+- Full firmware development from bootloader to application
+- Field testing and installation in real-world environments
+- Comprehensive documentation for maintenance and future development
 
 ## Connect
 
