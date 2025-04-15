@@ -130,27 +130,14 @@ This project demonstrates how to implement standard output (printf) functionalit
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <div style="text-align: center; margin: 10px;">
     <img src="https://github.com/afayzullaev/afayzullaev/blob/main/assets/device1.jpg" alt="Temperature Monitoring System" width="400"/>
-    <br><em>Device: STM32-based temperature and humidity monitoring system</em>
   </div>
   
   <div style="text-align: center; margin: 10px;">
     <img src="https://github.com/afayzullaev/afayzullaev/blob/main/assets/device2.jpg" alt="Water Quality Analyzer" width="400"/>
-    <br><em>Device: ESP32-based water quality analyzer with multiple sensor inputs</em>
-  </div>
-  
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://github.com/afayzullaev/afayzullaev/blob/main/assets/device3.jpg" alt="IoT Gateway" width="400"/>
-    <br><em>Device: Custom IoT gateway for industrial sensor networks</em>
-  </div>
-
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://github.com/afayzullaev/afayzullaev/blob/main/assets/device4.jpg" alt="Environmental Monitoring Device" width="400"/>
-    <br><em>Device: Environmental monitoring station with solar power capability</em>
   </div>
 
   <div style="text-align: center; margin: 10px;">
     <img src="https://github.com/afayzullaev/afayzullaev/blob/main/assets/device5.jpg" alt="Wireless Sensor Node" width="400"/>
-    <br><em>Device: Low-power wireless sensor node for distributed sensing applications</em>
   </div>
 </div>
 
@@ -159,17 +146,14 @@ This project demonstrates how to implement standard output (printf) functionalit
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <div style="text-align: center; margin: 10px;">
     <img src="https://github.com/afayzullaev/afayzullaev/blob/main/assets/pcb1.jpg" alt="PCB Design" width="400"/>
-    <br><em>PCB Design: Custom sensor interface board with precision analog circuitry</em>
   </div>
   
   <div style="text-align: center; margin: 10px;">
     <img src="https://github.com/afayzullaev/afayzullaev/blob/main/assets/pcb2.png" alt="PCB Layout" width="400"/>
-    <br><em>PCB Layout: Optimized component placement for compact form factor</em>
   </div>
 
   <div style="text-align: center; margin: 10px;">
     <img src="https://github.com/afayzullaev/afayzullaev/blob/main/assets/pcb 3d model.png" alt="3D PCB Model" width="400"/>
-    <br><em>3D PCB Model: Visualization of final product before manufacturing</em>
   </div>
 </div>
 
@@ -178,12 +162,10 @@ This project demonstrates how to implement standard output (printf) functionalit
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <div style="text-align: center; margin: 10px;">
     <img src="https://github.com/afayzullaev/afayzullaev/blob/main/assets/installation1.jpg" alt="Water Monitoring Installation" width="400"/>
-    <br><em>Installation Process: Deploying a water monitoring system at a treatment facility</em>
   </div>
   
   <div style="text-align: center; margin: 10px;">
     <img src="https://github.com/afayzullaev/afayzullaev/blob/main/assets/installation2.jpg" alt="Gas Detection Installation" width="400"/>
-    <br><em>Installation Process: Setting up a gas detection system in an industrial environment</em>
   </div>
 </div>
 
