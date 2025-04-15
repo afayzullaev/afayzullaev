@@ -38,23 +38,63 @@ Hello there! I specialize in embedded systems development and IoT solutions, wit
 
 ### [Smart Water Radar](https://github.com/afayzullaev/smartwater_radar)
 ESP32-based water monitoring system with RS485 radar sensors, cellular connectivity, and comprehensive data analysis.
-- Technologies: ESP32, RS485, A7670 Modem, PPP Protocol, Modbus RTU
+
+<p align="center">
+  <img src="https://github.com/afayzullaev/smartwater_radar/blob/main/main/pcb_.png" alt="SmartWater Radar 3D PCB Design" width="400"/>
+  <img src="https://github.com/afayzullaev/smartwater_radar/blob/main/main/pcb.jpg" alt="SmartWater Radar PCB Layout" width="400"/>
+</p>
+
+The SmartWater Radar system features custom-designed PCB with precisely placed components for optimal performance. The PCB integrates an ESP32 microcontroller, A7670 modem for cellular connectivity, RS485 transceiver circuit, and various sensor interfaces.
+
+- **Technologies**: ESP32, RS485, A7670 Modem, PPP Protocol, Modbus RTU
+- **Key Features**: Water flow monitoring, Cellular connectivity, Multiple sensor support, Real-time data visualization
 
 ### [Gas Security System](https://github.com/afayzullaev/gas-security-system)
 Advanced gas detection and alert system built on ESP32 for monitoring hazardous gases with SMS alerts.
-- Technologies: ESP32, GSM Modem, ADC Sensors, Custom PCB Design
+
+<p align="center">
+  <img src="https://github.com/afayzullaev/gas-security-system/blob/main/main/pcb_easyeda.png" alt="Gas Security System PCB Design in EasyEDA" width="400"/>
+  <img src="https://github.com/afayzullaev/gas-security-system/blob/main/main/Installation.jpg" alt="Gas Security System Installation" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github.com/afayzullaev/gas-security-system/blob/main/main/pcb_front.jpg" alt="Gas Security System PCB Front View" width="400"/>
+  <img src="https://github.com/afayzullaev/gas-security-system/blob/main/main/pcb_back.jpg" alt="Gas Security System PCB Back View" width="400"/>
+</p>
+
+The Gas Security System features a comprehensively designed PCB with carefully routed traces and component placement for reliable gas detection. The installation image shows the system deployed in a real-world setting, demonstrating its compact form factor and practical application.
+
+- **Technologies**: ESP32, GSM Modem, ADC Sensors, Custom PCB Design
+- **Key Features**: Real-time gas detection, SMS notifications, Valve control, Visual and audio alerts
 
 ### [Assembly with STM32](https://github.com/afayzullaev/Assembly-with-STM32)
 Low-level assembly programming tutorial for STM32 microcontrollers, demonstrating GPIO initialization and control.
-- Technologies: ARM Assembly, STM32, Embedded Systems
+
+This project provides a deep dive into ARM assembly programming with STM32 microcontrollers, focusing on:
+- GPIO initialization using direct register manipulation
+- Understanding of LDR and STR operations in ARM assembly
+- Bit manipulation for precise hardware control
+- Creating clean, well-documented, and educational assembly code
 
 ### [Yadla Translation Extension](https://github.com/afayzullaev/yadla-translation-extension)
 Chrome extension for instant word translation on websites, featuring inline translation display.
-- Technologies: JavaScript, React, TypeScript, Chrome Extension API
+
+<p align="center">
+  <img src="https://github.com/afayzullaev/yadla-translation-extension/blob/main/src/static/icon.png" alt="Yadla Translation Extension Icon" width="128"/>
+</p>
+
+The Yadla Translation Extension is a modern Chrome extension built with React and TypeScript. It provides seamless translation functionality directly on web pages, with an elegant popup display above selected words.
+
+- **Technologies**: JavaScript, React, TypeScript, Chrome Extension API
+- **Key Features**: Double-click translation, Inline display, Multiple language support, Domain-specific settings
 
 ### [STM32 UART Printf](https://github.com/afayzullaev/stm32_uart_printf)
 Implementation of UART-based printf functionality for STM32 microcontrollers.
-- Technologies: C, STM32, UART
+
+This project demonstrates how to implement standard output (printf) functionality using UART on STM32 microcontrollers, providing:
+- Efficient debugging capabilities via UART
+- Custom printf implementation optimized for embedded systems
+- Configurable UART settings for different hardware setups
+- Example usage and integration with STM32 projects
 
 ## Connect
 
