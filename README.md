@@ -1,5 +1,3 @@
-![Header Image - Embedded Systems & IoT Development](https://github.com/afayzullaev/afayzullaev/blob/main/assets/header.png)
-
 # Alisher Fayzullaev
 
 ## IoT Systems Developer & Embedded Software Engineer
