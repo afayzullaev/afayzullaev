@@ -127,10 +127,6 @@ This project demonstrates how to implement standard output (printf) functionalit
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; width: 100%;">
   <div style="text-align: center; margin: 10px;">
-    <img src="https://github.com/afayzullaev/afayzullaev/blob/main/assets/device1.jpg" alt="Temperature Monitoring System" width="400"/>
-  </div>
-  
-  <div style="text-align: center; margin: 10px;">
     <img src="https://github.com/afayzullaev/afayzullaev/blob/main/assets/device2.jpg" alt="Water Quality Analyzer" width="400"/>
   </div>
 
