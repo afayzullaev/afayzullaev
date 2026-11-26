@@ -116,21 +116,6 @@ This project provides a deep dive into ARM assembly programming with STM32 micro
 - Bit manipulation for precise hardware control
 - Creating clean, well-documented, and educational assembly code
 
-### [Yadla Translation Extension](https://github.com/afayzullaev/yadla-translation-extension)
-Chrome extension for instant word translation on websites, featuring inline translation display.
-
-<p align="center">
-  <img src="https://github.com/afayzullaev/yadla-translation-extension/blob/main/src/static/icon.png" alt="Yadla Translation Extension Icon" width="128"/>
-  <br><em>Application Icon: The Yadla Translation Chrome Extension logo</em>
-</p>
-
-The Yadla Translation Extension is a modern Chrome extension built with React and TypeScript. It provides seamless translation functionality directly on web pages, with an elegant popup display above selected words.
-
-- **Technologies**: JavaScript, React, TypeScript, Chrome Extension API
-- **Key Features**: Double-click translation, Inline display, Multiple language support, Domain-specific settings
-
-The same idea, tap a word and see its translation above it, is now my iPhone and iPad app with a Safari extension: [ReadLingua](https://readlingua.com).
-
 ### [STM32 UART Printf](https://github.com/afayzullaev/stm32_uart_printf)
 Implementation of UART-based printf functionality for STM32 microcontrollers.
 
