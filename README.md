@@ -2,12 +2,7 @@
 
 ## Now building: ReadLingua
 
-[ReadLingua](https://readlingua.com) is an app for learning a language by reading on iPhone and iPad, with a Safari extension for iPhone, iPad and Mac. Tap any word or phrase in a book, article or website, and its translation appears right above it. Every word you look up is saved with its sentence for flashcards and Meteor Words, a short game with your own words.
-
-- Graded books from A1 to C1 in English, Spanish, French, German and Italian
-- A Safari extension for iPhone, iPad and Mac: tap a word on any website
-- Works offline with on-device translation and voices
-- Free plan with 30 translations a day
+[ReadLingua](https://readlingua.com) is an app for learning a language by reading on iPhone and iPad, with a Safari extension for iPhone, iPad and Mac: tap any word in a book, article or website, and its translation appears right above it. More [below](#readlingua).
 
 Website: https://readlingua.com · App Store: https://apps.apple.com/app/id6755721145
 
@@ -45,16 +40,37 @@ Hello there! I specialize in embedded systems development and IoT solutions, wit
 
 ## Featured Projects
 
+### [ReadLingua](https://readlingua.com)
+An app for learning a language by reading: tap any word or phrase in a book, article or website, and its translation appears right above it. Every word you look up is saved with its sentence for flashcards and Meteor Words, a short game with your own words.
+
+<p align="center">
+  <a href="https://readlingua.com"><img src="assets/readlingua/01-hero.jpg" alt="ReadLingua: your own books, tap any word, play to remember" width="800"/></a>
+</p>
+
+<p align="center">
+  <img src="assets/readlingua/02-tap-any-word.jpg" alt="ReadLingua: tap any word to see its translation above it" width="395"/>
+  <img src="assets/readlingua/03-books-for-your-level.jpg" alt="ReadLingua: graded books for your level" width="395"/>
+</p>
+
+<p align="center">
+  <img src="assets/readlingua/04-vocabulary-and-game.jpg" alt="ReadLingua: vocabulary, flashcards and the Meteor Words game" width="395"/>
+  <img src="assets/readlingua/06-safari-extension.jpg" alt="ReadLingua for Safari: translate words on any website" width="395"/>
+</p>
+
+- **Technologies**: Swift, SwiftUI, Safari Web Extension, Apple Translation (on-device), Google Cloud Translation, Node.js, MongoDB
+- **Key Features**: Graded books A1–C1 in English, Spanish, French, German and Italian; your own EPUB, PDF and TXT; scan paper pages; Safari extension for iPhone, iPad and Mac; offline translation and voices; free plan with 30 translations a day
+- **Get it**: [readlingua.com](https://readlingua.com) · [App Store](https://apps.apple.com/app/id6755721145)
+
 ### Smart Water Radar
 ESP32-based water monitoring system with RS485 radar sensors, cellular connectivity, and comprehensive data analysis.
 
 <p align="center">
-  <img src="https://github.com/afayzullaev/smartwater_radar/blob/main/main/pcb_.png" alt="SmartWater Radar 3D PCB Design" width="400"/>
+  <img src="assets/smartwater-radar/pcb_.png" alt="SmartWater Radar 3D PCB Design" width="400"/>
   <br><em>Device: 3D PCB design of the SmartWater Radar system</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/afayzullaev/smartwater_radar/blob/main/main/pcb.jpg" alt="SmartWater Radar PCB Layout" width="400"/>
+  <img src="assets/smartwater-radar/pcb.jpg" alt="SmartWater Radar PCB Layout" width="400"/>
   <br><em>Device: PCB layout showing component placement and routing</em>
 </p>
 
@@ -67,22 +83,22 @@ The SmartWater Radar system features custom-designed PCB with precisely placed c
 Advanced gas detection and alert system built on ESP32 for monitoring hazardous gases with SMS alerts.
 
 <p align="center">
-  <img src="https://github.com/afayzullaev/gas-security-system/blob/main/main/pcb_easyeda.png" alt="Gas Security System PCB Design in EasyEDA" width="400"/>
+  <img src="assets/gas-security-system/pcb_easyeda.png" alt="Gas Security System PCB Design in EasyEDA" width="400"/>
   <br><em>Device: PCB design of the Gas Security System created in EasyEDA</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/afayzullaev/gas-security-system/blob/main/main/Installation.jpg" alt="Gas Security System Installation" width="400"/>
+  <img src="assets/gas-security-system/Installation.jpg" alt="Gas Security System Installation" width="400"/>
   <br><em>Installation Process: The Gas Security System mounted in its designated location</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/afayzullaev/gas-security-system/blob/main/main/pcb_front.jpg" alt="Gas Security System PCB Front View" width="400"/>
+  <img src="assets/gas-security-system/pcb_front.jpg" alt="Gas Security System PCB Front View" width="400"/>
   <br><em>Device: Front view of the assembled Gas Security System PCB</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/afayzullaev/gas-security-system/blob/main/main/pcb_back.jpg" alt="Gas Security System PCB Back View" width="400"/>
+  <img src="assets/gas-security-system/pcb_back.jpg" alt="Gas Security System PCB Back View" width="400"/>
   <br><em>Device: Back view of the assembled Gas Security System PCB showing soldering quality</em>
 </p>
 
@@ -127,12 +143,12 @@ This project demonstrates how to implement standard output (printf) functionalit
 ## Hardware Development Showcase
 
 <p align="center">
-  <img src="https://github.com/afayzullaev/gas-security-system/blob/main/main/pcb_easyeda.png" alt="PCB Design Process" width="400"/>
+  <img src="assets/gas-security-system/pcb_easyeda.png" alt="PCB Design Process" width="400"/>
   <br><em>Device Development: EDA software used for PCB design and routing</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/afayzullaev/gas-security-system/blob/main/main/Installation.jpg" alt="Device Field Installation" width="400"/>
+  <img src="assets/gas-security-system/Installation.jpg" alt="Device Field Installation" width="400"/>
   <br><em>Installation Process: Final mounted device in real-world application</em>
 </p>
 
