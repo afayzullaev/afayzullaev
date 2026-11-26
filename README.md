@@ -1,5 +1,16 @@
 # Alisher Fayzullaev
 
+## Now building: ReadLingua
+
+[ReadLingua](https://readlingua.com) is an app for learning a language by reading on iPhone and iPad, with a Safari extension for iPhone, iPad and Mac. Tap any word or phrase in a book, article or website, and its translation appears right above it. Every word you look up is saved with its sentence for flashcards and Meteor Words, a short game with your own words.
+
+- Graded books from A1 to C1 in English, Spanish, French, German and Italian
+- A Safari extension for iPhone, iPad and Mac: tap a word on any website
+- Works offline with on-device translation and voices
+- Free plan with 30 translations a day
+
+Website: https://readlingua.com · App Store: https://apps.apple.com/app/id6755721145
+
 ## IoT Systems Developer & Embedded Software Engineer
 
 Hello there! I specialize in embedded systems development and IoT solutions, with a focus on microcontroller programming, hardware design, and full-stack IoT architecture. My expertise spans from low-level assembly programming to creating comprehensive connected systems.
@@ -34,7 +45,7 @@ Hello there! I specialize in embedded systems development and IoT solutions, wit
 
 ## Featured Projects
 
-### [Smart Water Radar](https://github.com/afayzullaev/smartwater_radar)
+### Smart Water Radar
 ESP32-based water monitoring system with RS485 radar sensors, cellular connectivity, and comprehensive data analysis.
 
 <p align="center">
@@ -52,7 +63,7 @@ The SmartWater Radar system features custom-designed PCB with precisely placed c
 - **Technologies**: ESP32, RS485, A7670 Modem, PPP Protocol, Modbus RTU
 - **Key Features**: Water flow monitoring, Cellular connectivity, Multiple sensor support, Real-time data visualization
 
-### [Gas Security System](https://github.com/afayzullaev/gas-security-system)
+### Gas Security System
 Advanced gas detection and alert system built on ESP32 for monitoring hazardous gases with SMS alerts.
 
 <p align="center">
@@ -101,6 +112,8 @@ The Yadla Translation Extension is a modern Chrome extension built with React an
 
 - **Technologies**: JavaScript, React, TypeScript, Chrome Extension API
 - **Key Features**: Double-click translation, Inline display, Multiple language support, Domain-specific settings
+
+The same idea, tap a word and see its translation above it, is now my iPhone and iPad app with a Safari extension: [ReadLingua](https://readlingua.com).
 
 ### [STM32 UART Printf](https://github.com/afayzullaev/stm32_uart_printf)
 Implementation of UART-based printf functionality for STM32 microcontrollers.
